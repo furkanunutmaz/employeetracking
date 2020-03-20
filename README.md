@@ -1,11 +1,11 @@
 # Employee Tracking System
 
--> In this project was developed the Employee Tracking Programm. It has developed with C# and Microsoft SQL connection. 
+-> In this project an employee tracking program was developed. It has been developed with C# and Microsoft SQL connection. 
 
--> In first form, by typing the username and password that switch to the second form. If we enter wrong 3 times, system locking for us.
-Username and Password is getting from SQL Database.
+-> By typing in the username and the password in the first form,users can move onto the second form. If the usertype in their password
+wrong 3 times, system locks itself.Username and Password data is being extracted from SQL Database.
 
--> In second form, we  were restricted something that block to entering wrong.
+-> In second form, we have made some restriction in order to prevent wrong entries.
    - By using folder process, we can get users photo. 
    - We can save,update,delete and find user information.
    - All changes are added to the SQL Database.

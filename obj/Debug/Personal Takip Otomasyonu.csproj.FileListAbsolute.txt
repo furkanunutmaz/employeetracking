@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal Takip Otomasyonu.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal_Takip_Programı.Form1.resources
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal_Takip_Programı.Form2.resources
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal_Takip_Otomasyonu.Form3.resources
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\Personal Takip Otomasyonu\Personal Takip Otomasyonu\obj\Debug\Personal Takip Otomasyonu.csproj.CoreCompileInputs.cache
